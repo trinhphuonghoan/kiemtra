@@ -1,5 +1,7 @@
 package kiemtra;
 
+import java.util.Scanner;
+
 public class ChiTietHoaDon {
 	private String masp;
     private String tensp;
